@@ -283,6 +283,15 @@
         "sortie.embed.description": "Boss:{boss},Faction:{faction}",
         "sortie.embed.field.name": "Sortie{count}:\nNode:{node} level{lower}-{upper}",
         "sortie.embed.field.value": "Mission:{missionType}\nModifier:{modifier}",
+        "archon.aliases": [
+            "archon"
+        ],
+        "archon.brief": "current archon mission",
+        "archon.description": "Get current archon mission and remaining time",
+        "archon.embed.title": "archon remaining time:<t:{expiry}:R>",
+        "archon.embed.description": "Boss:{boss},Faction:{faction}",
+        "archon.embed.field.name": "archon{count}:\nNode:{node} level{lower}-{upper}",
+        "archon.embed.field.value": "Mission:{missionType}",
         "fissure.aliases": [
             "relic"
         ],
