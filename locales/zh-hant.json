@@ -319,6 +319,11 @@
         "sortie.embed.description": "{boss}的部隊，{faction}陣營",
         "sortie.embed.field.name": "突擊{count}:\n節點:{node} 等級{lower}-{upper}",
         "sortie.embed.field.value": "任務:{missionType}\n狀態:{modifier}",
+        "archon.aliases": [
+            "elite sortie"
+        ],
+        "archon.brief": "current archon hunt mission",
+        "archon.description": "Get current archon hunt mission and remaining time",
         "fissure.aliases": [
             "裂縫",
             "核桃",

@@ -283,6 +283,11 @@
         "sortie.embed.description": "Boss:{boss},Faction:{faction}",
         "sortie.embed.field.name": "Sortie{count}:\nNode:{node} level{lower}-{upper}",
         "sortie.embed.field.value": "Mission:{missionType}\nModifier:{modifier}",
+        "archon.aliases": [
+            "elite sortie"
+        ],
+        "archon.brief": "current archon hunt mission",
+        "archon.description": "Get current archon hunt mission and remaining time",
         "fissure.aliases": [
             "relic"
         ],

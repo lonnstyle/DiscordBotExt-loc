@@ -319,6 +319,11 @@
         "sortie.embed.description": "{boss}的部队，{faction}阵营",
         "sortie.embed.field.name": "突击{count}:\n节点:{node} 等级{lower}-{upper}",
         "sortie.embed.field.value": "任务:{missionType}\n状态:{modifier}",
+        "archon.aliases": [
+            "elite sortie"
+        ],
+        "archon.brief": "current archon hunt mission",
+        "archon.description": "Get current archon hunt mission and remaining time",
         "fissure.aliases": [
             "裂缝",
             "核桃",
