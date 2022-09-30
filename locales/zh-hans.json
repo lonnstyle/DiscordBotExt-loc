@@ -324,6 +324,10 @@
         ],
         "archon.brief": "current archon hunt mission",
         "archon.description": "Get current archon hunt mission and remaining time",
+        "archon.embed.title": "archon remaining time:<t:{expiry}:R>",
+        "archon.embed.description": "Boss:{boss},Faction:{faction}",
+        "archon.embed.field.name": "archon{count}:\nNode:{node} level{lower}-{upper}",
+        "archon.embed.field.value": "Mission:{missionType}",
         "fissure.aliases": [
             "裂缝",
             "核桃",
