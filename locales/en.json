@@ -284,7 +284,7 @@
         "sortie.embed.field.name": "Sortie{count}:\nNode:{node} level{lower}-{upper}",
         "sortie.embed.field.value": "Mission:{missionType}\nModifier:{modifier}",
         "archon.aliases": [
-            "archon"
+            "elite sortie"
         ],
         "archon.brief": "current archon mission",
         "archon.description": "Get current archon mission and remaining time",

@@ -32,7 +32,7 @@ def sync_to_en():
 
     # Synchronize
     # Load en.json file
-    with open(os.path.join('locales', locales['en'])) as _file:
+    with open(os.path.join('locales', locales['en']),'r',encoding='utf-8') as _file:
         en_locale = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(_file.read())
 
     # Format en.json file
@@ -44,7 +44,7 @@ def sync_to_en():
         updated_locale_data = copy.deepcopy(en_locale)
         unknown_cats = []
         unknown_keys = []
-        with open(os.path.join('locales', locale_file)) as _file:
+        with open(os.path.join('locales', locale_file),'r',encoding='utf-8') as _file:
             for cat, key in json.JSONDecoder(object_pairs_hook=OrderedDict).decode(_file.read()).items():
                 if cat in en_locale:
                     for key, value in key.items():
