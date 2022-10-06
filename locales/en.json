@@ -93,7 +93,7 @@
             "Baro"
         ],
         "baro.brief": "Baro's info",
-        "baro.description": "Current status of Void Trader Baro Ki'Teer\tIf Baro is already at the relay",
+        "baro.description": "Current status of Void Trader Baro Ki'Teer.\t If Baro is already at the relay, it will shows the item list",
         "baro.item": "Item:{name}\nDucats:{ducats}\tCredits:{credits}\n",
         "baro.arrived": "Baro Ki'Teer had arrived {location},will stay until <t:{stay}:R>\tBeing as follow:",
         "baro.arrival": "Baro Ki'Teer will arrive {location} at <t:{arrive}:R>"
