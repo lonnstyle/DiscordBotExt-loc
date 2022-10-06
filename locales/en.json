@@ -86,7 +86,7 @@
         "clear.error.title": "Missing permission",
         "clear.error.description": "this command is only available for bot owner\nThe bot owner is <@{owner}>"
     },
-    "baro_status": {
+    "baro": {
         "rawDict.URL": "https://raw.githubusercontent.com/pa001024/riven-mirror/dev/src/i18n/lang/en.json",
         "baro.aliases": [
             "VoidTrader",

@@ -98,7 +98,7 @@
         "clear.error.title": "權限不足",
         "clear.error.description": "本指令只提供給機器人擁有者 \n本機器人擁有者為 <@{owner}>"
     },
-    "baro_status": {
+    "baro": {
         "rawDict.URL": "https://raw.githubusercontent.com/pa001024/riven-mirror/dev/src/i18n/lang/zh-Hant.json",
         "baro.aliases": [
             "奸商",
