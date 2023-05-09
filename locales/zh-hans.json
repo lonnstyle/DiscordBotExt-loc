@@ -497,6 +497,30 @@
                 "SORTIE_MODIFIER_MELEE_ONLY": "Only melee weapons may be used in this mission, any other weapon type is not allowed, and will be removed automatically if equipped.",
                 "SORTIE_MODIFIER_BOW_ONLY": "Only bows may be used in this mission, crossbows however work too! Other weapon types will be removed automatically if equipped."
             }
+        },
+        "missionTypes": {
+            "MT_ARENA": "Rathuum",
+            "MT_ARTIFACT": "Disruption",
+            "MT_ASSAULT": "Assault",
+            "MT_ASSASSINATION": "Assassination",
+            "MT_CAPTURE": "Capture",
+            "MT_DEFENSE": "Defense",
+            "MT_DISRUPTION": "Disruption",
+            "MT_EVACUATION": "Defection",
+            "MT_EXCAVATE": "Excavation",
+            "MT_EXTERMINATION": "Extermination",
+            "MT_HIVE": "Hive",
+            "MT_INTEL": "Spy",
+            "MT_LANDSCAPE": "Free Roam",
+            "MT_MOBILE_DEFENSE": "Mobile Defense",
+            "MT_PVP": "Conclave",
+            "MT_RESCUE": "Rescue",
+            "MT_RETRIEVAL": "Hijack",
+            "MT_SABOTAGE": "Sabotage",
+            "MT_SECTOR": "Dark Sector",
+            "MT_SURVIVAL": "Survival",
+            "MT_TERRITORY": "Interception",
+            "MT_DEFAULT": "Unknown"
         }
     }
 }
