@@ -348,7 +348,11 @@
             "neo": 3,
             "axi": 4,
             "requiem": 5
-        }
+        },
+        "archon.embed.title": "Archon remaining time:<t:{expiry}:R>",
+        "archon.embed.description": "{boss}, {faction}",
+        "archon.embed.field.name": "Archon{count}\nNode:{node} level{lower}-{upper}",
+        "archon.embed.field.value": "Mission:{missionType}"
     },
     "mobile_export": {
         "blueprint": "Blueprint",
